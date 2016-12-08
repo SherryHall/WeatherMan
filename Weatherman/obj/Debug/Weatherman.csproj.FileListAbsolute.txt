@@ -1,0 +1,8 @@
+c:\users\sherry\documents\visual studio 2015\Projects\Weatherman\Weatherman\bin\Debug\Weatherman.exe.config
+c:\users\sherry\documents\visual studio 2015\Projects\Weatherman\Weatherman\obj\Debug\Weatherman.csprojResolveAssemblyReference.cache
+c:\users\sherry\documents\visual studio 2015\Projects\Weatherman\Weatherman\bin\Debug\Weatherman.exe
+c:\users\sherry\documents\visual studio 2015\Projects\Weatherman\Weatherman\bin\Debug\Weatherman.pdb
+c:\users\sherry\documents\visual studio 2015\Projects\Weatherman\Weatherman\bin\Debug\Newtonsoft.Json.dll
+c:\users\sherry\documents\visual studio 2015\Projects\Weatherman\Weatherman\bin\Debug\Newtonsoft.Json.xml
+c:\users\sherry\documents\visual studio 2015\Projects\Weatherman\Weatherman\obj\Debug\Weatherman.exe
+c:\users\sherry\documents\visual studio 2015\Projects\Weatherman\Weatherman\obj\Debug\Weatherman.pdb
